@@ -22,13 +22,13 @@
 
 <h2>⭐️ Configuración del Entorno</h2>
 <p>1. Clona el repositorio desde GitHub:</p>
-<code>git clone https://github.com/angelesGladin/challenge-data-science.git</code>
+<code>git clone https://github.com/renzolea/Challenge-Alura-Store</code>
 
 <p>2. Instala las librerías necesarias:</p>
-<code>pip install pandas matplotlib seaborn plotly folium</code>
+<code>https://github.com/renzolea/Challenge-Alura-Store/tree/main/challenge1-data-science-latam-main/base-de-datos-challenge1-latam)</code>
 
 <p>3. Abre el proyecto en Google Colab:</p>
-<code>Google Colab → AluraStoreLatam.ipynb</code>
+<code>https://colab.research.google.com/</code>
 
 <h2>⭐️ Pasos para Ejecutar el Análisis</h2>
 <ol>
