@@ -6,7 +6,7 @@
 <h2>⭐️ Archivos del Proyecto</h2>
 <ul>
   <li><strong>AluraStoreLatam.ipynb:</strong> Contiene todo el desarrollo del análisis, visualizaciones y hallazgos.</li>
-  <li><strong>base-de-datos-challenge1-latam:</strong> Archivo con los datos necesarios para el estudio.</li>
+  <li><strong>challenge1-data-science-latam-main:</strong> Archivo con los datos necesarios para el estudio.</li>
   <li><strong>README.md:</strong> Documento explicativo con detalles del enfoque y ejecución.</li>
 </ul>
 
